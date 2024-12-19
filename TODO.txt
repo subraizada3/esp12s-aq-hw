@@ -1,0 +1,7 @@
+Use vias to connect ground plane of voltage regultator to the PCB rear side ground fill
+
+Publish code
+
+Publish 3D model for housing
+
+Update to newer generation Sensirion sensors
